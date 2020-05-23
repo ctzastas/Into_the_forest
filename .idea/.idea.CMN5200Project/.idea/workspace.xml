@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f17586fd-3a59-4d29-b45c-2edd6a14164f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AnimationHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedTools_Assets/Ferr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedTools_Assets/Ferr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedTools_Assets/Ferr/2DTerrain.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedTools_Assets/Ferr/2DTerrain.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedTools_Assets/Ferr/2DTerrain/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedTools_Assets/Ferr/2DTerrain/Scripts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedTools_Assets/Ferr/2DTerrain/Scripts/Ferr2DT_PathTerrain.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedTools_Assets/Ferr/2DTerrain/Scripts/Ferr2DT_PathTerrain_Legacy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Alex.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Interact.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Alex/Interact.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Interact/Implementations.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Alex/Interact/Implementations.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Interact/Implementations/Interactables.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Alex/Interact/Implementations/Interactables.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Interact/Implementations/Interactables/CrateBehaviour.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Interact/Implementations/Interactors.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Alex/Interact/Implementations/Interactors.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Interact/Implementations/Interactors/PushPullInteractor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Interact/InteractionHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Interact/Interface.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Alex/Interact/Interface.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Interact/Interface/IInteractable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Interact/Interface/IInteractor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Movement_Input.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Alex/Movement_Input.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Movement_Input/CharacterController2D.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Movement_Input/Interfaces&amp;Abstacts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Alex/Movement_Input/Interfaces&amp;Abstacts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Movement_Input/Interfaces&amp;Abstacts/IInputController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Movement_Input/Interfaces&amp;Abstacts/JumpButtonScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Movement_Input/Interfaces&amp;Abstacts/KeyboardController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Movement_Input/Interfaces&amp;Abstacts/MoveButtonScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Movement_Input/NewMovementTest.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Alex/Movement_Input/NewMovementTest.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Movement_Input/NewMovementTest/CameraFollow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Movement_Input/NewMovementTest/Controller2D.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Movement_Input/NewMovementTest/MovementController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Movement_Input/NewMovementTest/PlatformController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Movement_Input/NewMovementTest/Player.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Movement_Input/NewMovementTest/PlayerInput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Movement_Input/NewMovementTest/RaycastController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/Movement_Input/PInput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Alex/PlayerManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DisableKinematic.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Jastas/Rocks.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/ImportedTools_Assets/Ferr/2DTerrain.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Jastas/FallenTrees.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Jastas/Rocks.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Jastas/IDamageable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Jastas/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Jastas/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Jastas/Spikes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Jastas/PlayerAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1XZzK0Dmf7IvWVfcEyDv5619IN9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f17586fd-3a59-4d29-b45c-2edd6a14164f" name="Default Changelist" comment="" />
+      <created>1581268337693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581268337693</updated>
+      <workItem from="1581268346076" duration="1413000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

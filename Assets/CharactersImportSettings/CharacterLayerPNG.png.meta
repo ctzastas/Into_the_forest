@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 5740662d96e5c4b46a1197f482f4879f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CharacterLayerPNG_0
+    21300002: CharacterLayerPNG_1
+    21300004: CharacterLayerPNG_2
+    21300006: CharacterLayerPNG_3
+    21300008: CharacterLayerPNG_4
+    21300010: CharacterLayerPNG_5
+    21300012: CharacterLayerPNG_6
+    21300014: CharacterLayerPNG_7
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CharacterLayerPNG_0
+      rect:
+        serializedVersion: 2
+        x: 325.7451
+        y: 651.27167
+        width: 337.821
+        height: 340.37646
+      alignment: 9
+      pivot: {x: 0.5054597, y: 0.46780065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6518ea2b69288a94591888f9e2c2d5c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterLayerPNG_1
+      rect:
+        serializedVersion: 2
+        x: 46.27179
+        y: 292.71405
+        width: 266.6
+        height: 414.59998
+      alignment: 9
+      pivot: {x: 0.4772251, y: 0.51805586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d07e6e8ce5cab342a8d3a7b297890ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterLayerPNG_2
+      rect:
+        serializedVersion: 2
+        x: 703.60004
+        y: 275.30002
+        width: 181.79999
+        height: 385.19998
+      alignment: 9
+      pivot: {x: 0.50825065, y: 0.4950675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae56a395e74f00b4d96a2a9a8a09a914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterLayerPNG_3
+      rect:
+        serializedVersion: 2
+        x: 367.2703
+        y: 309.54794
+        width: 224.25308
+        height: 329.56265
+      alignment: 9
+      pivot: {x: 0.48485267, y: 0.50810385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fd34cf5afab3944b663aaeb730aa62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterLayerPNG_4
+      rect:
+        serializedVersion: 2
+        x: 395.69922
+        y: 171.20903
+        width: 54.941315
+        height: 114.751816
+      alignment: 9
+      pivot: {x: 0.4696062, y: 0.56461823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0908a4cedbf48ad4fb4eeb008fbf8197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterLayerPNG_5
+      rect:
+        serializedVersion: 2
+        x: 539.69916
+        y: 171.20903
+        width: 54.941284
+        height: 115.43153
+      alignment: 9
+      pivot: {x: 0.42410442, y: 0.55696195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbadb609936ab8c4fa65f0c73cdac859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterLayerPNG_6
+      rect:
+        serializedVersion: 2
+        x: 395.6951
+        y: 18.952763
+        width: 54.599976
+        height: 132.8
+      alignment: 9
+      pivot: {x: 0.5275625, y: 0.519934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3431a74624ab04ab0abb66d3edaf41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterLayerPNG_7
+      rect:
+        serializedVersion: 2
+        x: 539.5936
+        y: 18.800001
+        width: 54.731506
+        height: 132.2
+      alignment: 9
+      pivot: {x: 0.35457405, y: 0.50453854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49c3fc410102ed4590b1efade3d1c15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 92cb24197763e1c4eba4d7ce28ebad7d
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 637104235293369210
+  assetBundleName: 
+  assetBundleVariant: 

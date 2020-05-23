@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: bindboss
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: Bones/Torso
+    localPosition: {x: 1.461731, y: -8.198388, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.73519367, w: 0.67785716}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Torso/Head
+    localPosition: {x: 6.7840276, y: -0.00000047683716, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.0731043, w: -0.99732435}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Torso/Tale
+    localPosition: {x: -1.1239507, y: 0.01348722, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.96672356, w: 0.25582334}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Torso/Tale/Tale2
+    localPosition: {x: 7.278287, y: 0, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.53947324, w: -0.8420028}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Torso/Wing
+    localPosition: {x: 4.604144, y: -4.456461, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.9320085, w: -0.3624364}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Torso/Wing2
+    localPosition: {x: 1.8336724, y: -3.7924786, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.96379095, w: 0.266659}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Torso/Wing3
+    localPosition: {x: 2.2793, y: -4.67455, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.95642525, w: 0.29197738}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Torso/Wing4
+    localPosition: {x: 2.9399855, y: -5.4537253, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.95654595, w: 0.29158187}
+    localScale: {x: 1, y: 1, z: 1}
